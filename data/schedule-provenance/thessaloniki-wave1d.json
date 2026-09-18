@@ -1,0 +1,55 @@
+{
+  "generatedAt": "2026-09-18T07:43:29.223Z",
+  "wave": "wave-1d",
+  "port": "thessaloniki",
+  "destSlug": "thessaloniki",
+  "displayName": "Thessaloniki",
+  "counts": {
+    "2026": 27,
+    "2027": 44,
+    "2028_discovery": 22,
+    "2028_published": 0,
+    "public_total": 71,
+    "h1_2026": 0
+  },
+  "partial2026": true,
+  "filter2028": {
+    "decision": "HOLD",
+    "reason": "validated 6 < MIN_PUBLISH_ROWS 15 — HOLD; restricted rows NOT reintroduced",
+    "validatedCount": 6,
+    "tier2PrincessKeys": 0
+  },
+  "timeCompleteness": {
+    "2026": {
+      "total": 27,
+      "arrival": 21,
+      "departure": 18,
+      "both": 18,
+      "neither": 6,
+      "pctBoth": 66.7
+    },
+    "2027": {
+      "total": 44,
+      "arrival": 31,
+      "departure": 24,
+      "both": 24,
+      "neither": 13,
+      "pctBoth": 54.5
+    },
+    "2028": {
+      "total": 0,
+      "arrival": 0,
+      "departure": 0,
+      "both": 0,
+      "neither": 0,
+      "pctBoth": 0
+    }
+  },
+  "contaminationPurged": [
+    "src/data/imported-schedules/savona.json"
+  ],
+  "wireSchedulesTs": {
+    "wired": true,
+    "reason": "import wired"
+  }
+}

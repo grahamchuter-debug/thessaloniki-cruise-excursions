@@ -1,0 +1,623 @@
+[
+  {
+    "date": "2026-08-03",
+    "ship": "Oceania Regatta",
+    "cruiseLine": "Oceania Cruises",
+    "arrival": "07:00",
+    "departure": "16:00",
+    "callType": "Port of call",
+    "timeInPort": "9h"
+  },
+  {
+    "date": "2026-08-13",
+    "ship": "Celebrity Infinity",
+    "cruiseLine": "Celebrity Cruises",
+    "arrival": "09:00",
+    "departure": "21:00",
+    "callType": "Port of call",
+    "timeInPort": "12h"
+  },
+  {
+    "date": "2026-08-20",
+    "ship": "Celebrity Infinity",
+    "cruiseLine": "Celebrity Cruises",
+    "arrival": "09:00",
+    "departure": "21:00",
+    "callType": "Port of call",
+    "timeInPort": "12h"
+  },
+  {
+    "date": "2026-08-27",
+    "ship": "Celebrity Infinity",
+    "cruiseLine": "Celebrity Cruises",
+    "arrival": "09:00",
+    "departure": "21:00",
+    "callType": "Port of call",
+    "timeInPort": "12h"
+  },
+  {
+    "date": "2026-09-05",
+    "ship": "Celebrity Infinity",
+    "cruiseLine": "Celebrity Cruises",
+    "arrival": "09:00",
+    "departure": "21:00",
+    "callType": "Port of call",
+    "timeInPort": "12h"
+  },
+  {
+    "date": "2026-09-05",
+    "ship": "Norwegian Viva",
+    "cruiseLine": "Norwegian Cruise Line",
+    "arrival": "08:00",
+    "departure": "16:00",
+    "callType": "Port of call",
+    "timeInPort": "8h"
+  },
+  {
+    "date": "2026-09-08",
+    "ship": "Celebrity Infinity",
+    "cruiseLine": "Celebrity Cruises",
+    "arrival": "10:30",
+    "departure": "21:00",
+    "callType": "Port of call",
+    "timeInPort": "10h 30m"
+  },
+  {
+    "date": "2026-09-15",
+    "ship": "Azamara Onward",
+    "cruiseLine": "Azamara Cruises",
+    "arrival": "09:00",
+    "departure": "22:00",
+    "callType": "Port of call",
+    "timeInPort": "13h"
+  },
+  {
+    "date": "2026-09-24",
+    "ship": "Celebrity Infinity",
+    "cruiseLine": "Celebrity Cruises",
+    "arrival": "06:30",
+    "departure": "20:00",
+    "callType": "Port of call",
+    "timeInPort": "13h 30m"
+  },
+  {
+    "date": "2026-09-26",
+    "ship": "Silver Nova",
+    "cruiseLine": "Silversea Cruises",
+    "arrival": "08:00",
+    "departure": "19:00",
+    "callType": "Port of call",
+    "timeInPort": "11h"
+  },
+  {
+    "date": "2026-09-29",
+    "ship": "Star Legend",
+    "cruiseLine": "Windstar Cruises",
+    "arrival": "12:00",
+    "departure": "",
+    "callType": "Port of call",
+    "notes": "overnight/next-day timing"
+  },
+  {
+    "date": "2026-10-03",
+    "ship": "Celebrity Infinity",
+    "cruiseLine": "Celebrity Cruises",
+    "arrival": "06:30",
+    "departure": "20:00",
+    "callType": "Port of call",
+    "timeInPort": "13h 30m"
+  },
+  {
+    "date": "2026-10-03",
+    "ship": "Spirit Of Discovery",
+    "cruiseLine": "Saga Cruises",
+    "arrival": "08:00",
+    "departure": "18:00",
+    "callType": "Port of call",
+    "timeInPort": "10h"
+  },
+  {
+    "date": "2026-10-06",
+    "ship": "Celebrity Infinity",
+    "cruiseLine": "Celebrity Cruises",
+    "arrival": "10:30",
+    "departure": "21:00",
+    "callType": "Port of call",
+    "timeInPort": "10h 30m"
+  },
+  {
+    "date": "2026-10-07",
+    "ship": "Star Legend",
+    "cruiseLine": "Windstar Cruises",
+    "arrival": "12:00",
+    "departure": "",
+    "callType": "Port of call",
+    "notes": "overnight/next-day timing"
+  },
+  {
+    "date": "2026-10-08",
+    "ship": "Azamara Quest",
+    "cruiseLine": "Azamara Cruises",
+    "arrival": "08:00",
+    "departure": "",
+    "callType": "Port of call",
+    "notes": "overnight/next-day timing"
+  },
+  {
+    "date": "2026-10-20",
+    "ship": "Viking Neptune",
+    "cruiseLine": "Viking Cruises",
+    "arrival": "",
+    "departure": "",
+    "callType": "Port of call"
+  },
+  {
+    "date": "2026-10-21",
+    "ship": "Celebrity Infinity",
+    "cruiseLine": "Celebrity Cruises",
+    "arrival": "09:00",
+    "departure": "21:00",
+    "callType": "Port of call",
+    "timeInPort": "12h"
+  },
+  {
+    "date": "2026-10-31",
+    "ship": "Celebrity Infinity",
+    "cruiseLine": "Celebrity Cruises",
+    "arrival": "06:30",
+    "departure": "20:00",
+    "callType": "Port of call",
+    "timeInPort": "13h 30m"
+  },
+  {
+    "date": "2026-10-31",
+    "ship": "Silver Spirit",
+    "cruiseLine": "Silversea Cruises",
+    "arrival": "08:00",
+    "departure": "22:00",
+    "callType": "Port of call",
+    "timeInPort": "14h"
+  },
+  {
+    "date": "2026-11-02",
+    "ship": "Balmoral",
+    "cruiseLine": "Fred Olsen Cruise Lines",
+    "arrival": "",
+    "departure": "",
+    "callType": "Port of call",
+    "notes": "overnight/next-day timing"
+  },
+  {
+    "date": "2026-11-03",
+    "ship": "Silver Nova",
+    "cruiseLine": "Silversea Cruises",
+    "arrival": "08:00",
+    "departure": "18:00",
+    "callType": "Port of call",
+    "timeInPort": "10h"
+  },
+  {
+    "date": "2026-11-04",
+    "ship": "Explora II",
+    "cruiseLine": "Explora Journeys",
+    "arrival": "08:00",
+    "departure": "20:00",
+    "callType": "Port of call",
+    "timeInPort": "12h"
+  },
+  {
+    "date": "2026-11-13",
+    "ship": "Viking Vela",
+    "cruiseLine": "Viking Cruises",
+    "arrival": "",
+    "departure": "",
+    "callType": "Port of call"
+  },
+  {
+    "date": "2026-11-23",
+    "ship": "Viking Vela",
+    "cruiseLine": "Viking Cruises",
+    "arrival": "",
+    "departure": "",
+    "callType": "Port of call"
+  },
+  {
+    "date": "2026-12-06",
+    "ship": "Viking Libra",
+    "cruiseLine": "Viking Cruises",
+    "arrival": "",
+    "departure": "",
+    "callType": "Port of call"
+  },
+  {
+    "date": "2026-12-15",
+    "ship": "Viking Star",
+    "cruiseLine": "Viking Cruises",
+    "arrival": "",
+    "departure": "",
+    "callType": "Port of call"
+  },
+  {
+    "date": "2027-01-22",
+    "ship": "Viking Neptune",
+    "cruiseLine": "Viking Cruises",
+    "arrival": "",
+    "departure": "",
+    "callType": "Port of call"
+  },
+  {
+    "date": "2027-02-25",
+    "ship": "Viking Saturn",
+    "cruiseLine": "Viking Cruises",
+    "arrival": "",
+    "departure": "",
+    "callType": "Port of call"
+  },
+  {
+    "date": "2027-03-07",
+    "ship": "Viking Saturn",
+    "cruiseLine": "Viking Cruises",
+    "arrival": "",
+    "departure": "",
+    "callType": "Port of call"
+  },
+  {
+    "date": "2027-03-24",
+    "ship": "Celebrity Infinity",
+    "cruiseLine": "Celebrity Cruises",
+    "arrival": "06:30",
+    "departure": "",
+    "callType": "Port of call",
+    "notes": "overnight/next-day timing"
+  },
+  {
+    "date": "2027-04-04",
+    "ship": "Celebrity Infinity",
+    "cruiseLine": "Celebrity Cruises",
+    "arrival": "06:30",
+    "departure": "",
+    "callType": "Port of call",
+    "notes": "overnight/next-day timing"
+  },
+  {
+    "date": "2027-04-14",
+    "ship": "Celebrity Infinity",
+    "cruiseLine": "Celebrity Cruises",
+    "arrival": "06:30",
+    "departure": "",
+    "callType": "Port of call",
+    "notes": "overnight/next-day timing"
+  },
+  {
+    "date": "2027-04-17",
+    "ship": "Azamara Onward",
+    "cruiseLine": "Azamara Cruises",
+    "arrival": "08:00",
+    "departure": "",
+    "callType": "Port of call",
+    "notes": "overnight/next-day timing"
+  },
+  {
+    "date": "2027-04-25",
+    "ship": "Celebrity Infinity",
+    "cruiseLine": "Celebrity Cruises",
+    "arrival": "06:30",
+    "departure": "",
+    "callType": "Port of call",
+    "notes": "overnight/next-day timing"
+  },
+  {
+    "date": "2027-04-28",
+    "ship": "Viking Jupiter",
+    "cruiseLine": "Viking Cruises",
+    "arrival": "",
+    "departure": "",
+    "callType": "Port of call"
+  },
+  {
+    "date": "2027-05-02",
+    "ship": "Azamara Onward",
+    "cruiseLine": "Azamara Cruises",
+    "arrival": "08:00",
+    "departure": "22:00",
+    "callType": "Port of call",
+    "timeInPort": "14h"
+  },
+  {
+    "date": "2027-05-12",
+    "ship": "Celebrity Infinity",
+    "cruiseLine": "Celebrity Cruises",
+    "arrival": "07:00",
+    "departure": "20:00",
+    "callType": "Port of call",
+    "timeInPort": "13h"
+  },
+  {
+    "date": "2027-05-16",
+    "ship": "Celebrity Infinity",
+    "cruiseLine": "Celebrity Cruises",
+    "arrival": "07:00",
+    "departure": "20:00",
+    "callType": "Port of call",
+    "timeInPort": "13h"
+  },
+  {
+    "date": "2027-05-17",
+    "ship": "Viking Sea",
+    "cruiseLine": "Viking Cruises",
+    "arrival": "",
+    "departure": "",
+    "callType": "Port of call"
+  },
+  {
+    "date": "2027-05-18",
+    "ship": "Mein Schiff 5",
+    "cruiseLine": "TUI Cruises",
+    "arrival": "07:00",
+    "departure": "19:00",
+    "callType": "Port of call",
+    "timeInPort": "12h"
+  },
+  {
+    "date": "2027-06-18",
+    "ship": "Oceania Nautica",
+    "cruiseLine": "Oceania Cruises",
+    "arrival": "09:00",
+    "departure": "20:00",
+    "callType": "Port of call",
+    "timeInPort": "11h"
+  },
+  {
+    "date": "2027-06-20",
+    "ship": "Silver Nova",
+    "cruiseLine": "Silversea Cruises",
+    "arrival": "08:00",
+    "departure": "19:00",
+    "callType": "Port of call",
+    "timeInPort": "11h"
+  },
+  {
+    "date": "2027-06-21",
+    "ship": "Norwegian Viva",
+    "cruiseLine": "Norwegian Cruise Line",
+    "arrival": "08:00",
+    "departure": "16:00",
+    "callType": "Port of call",
+    "timeInPort": "8h"
+  },
+  {
+    "date": "2027-07-01",
+    "ship": "Silver Nova",
+    "cruiseLine": "Silversea Cruises",
+    "arrival": "08:00",
+    "departure": "19:00",
+    "callType": "Port of call",
+    "timeInPort": "11h"
+  },
+  {
+    "date": "2027-07-11",
+    "ship": "Mein Schiff 5",
+    "cruiseLine": "TUI Cruises",
+    "arrival": "07:00",
+    "departure": "19:00",
+    "callType": "Port of call",
+    "timeInPort": "12h"
+  },
+  {
+    "date": "2027-07-12",
+    "ship": "Oceania Sirena",
+    "cruiseLine": "Oceania Cruises",
+    "arrival": "08:00",
+    "departure": "17:00",
+    "callType": "Port of call",
+    "timeInPort": "9h"
+  },
+  {
+    "date": "2027-08-10",
+    "ship": "Mein Schiff 5",
+    "cruiseLine": "TUI Cruises",
+    "arrival": "07:00",
+    "departure": "19:00",
+    "callType": "Port of call",
+    "timeInPort": "12h"
+  },
+  {
+    "date": "2027-08-14",
+    "ship": "Viking Jupiter",
+    "cruiseLine": "Viking Cruises",
+    "arrival": "",
+    "departure": "",
+    "callType": "Port of call"
+  },
+  {
+    "date": "2027-08-16",
+    "ship": "Norwegian Viva",
+    "cruiseLine": "Norwegian Cruise Line",
+    "arrival": "08:00",
+    "departure": "16:00",
+    "callType": "Port of call",
+    "timeInPort": "8h"
+  },
+  {
+    "date": "2027-08-17",
+    "ship": "Azamara Onward",
+    "cruiseLine": "Azamara Cruises",
+    "arrival": "09:00",
+    "departure": "22:00",
+    "callType": "Port of call",
+    "timeInPort": "13h"
+  },
+  {
+    "date": "2027-09-01",
+    "ship": "Celebrity Infinity",
+    "cruiseLine": "Celebrity Cruises",
+    "arrival": "07:00",
+    "departure": "20:00",
+    "callType": "Port of call",
+    "timeInPort": "13h"
+  },
+  {
+    "date": "2027-09-04",
+    "ship": "Star Legend",
+    "cruiseLine": "Windstar Cruises",
+    "arrival": "12:00",
+    "departure": "",
+    "callType": "Port of call",
+    "notes": "overnight/next-day timing"
+  },
+  {
+    "date": "2027-09-05",
+    "ship": "Mein Schiff 5",
+    "cruiseLine": "TUI Cruises",
+    "arrival": "07:00",
+    "departure": "19:00",
+    "callType": "Port of call",
+    "timeInPort": "12h"
+  },
+  {
+    "date": "2027-09-11",
+    "ship": "Celebrity Infinity",
+    "cruiseLine": "Celebrity Cruises",
+    "arrival": "07:00",
+    "departure": "20:00",
+    "callType": "Port of call",
+    "timeInPort": "13h"
+  },
+  {
+    "date": "2027-09-20",
+    "ship": "Celebrity Infinity",
+    "cruiseLine": "Celebrity Cruises",
+    "arrival": "07:00",
+    "departure": "20:00",
+    "callType": "Port of call",
+    "timeInPort": "13h"
+  },
+  {
+    "date": "2027-09-28",
+    "ship": "Celebrity Infinity",
+    "cruiseLine": "Celebrity Cruises",
+    "arrival": "10:30",
+    "departure": "21:00",
+    "callType": "Port of call",
+    "timeInPort": "10h 30m"
+  },
+  {
+    "date": "2027-09-28",
+    "ship": "Star Legend",
+    "cruiseLine": "Windstar Cruises",
+    "arrival": "12:00",
+    "departure": "",
+    "callType": "Port of call",
+    "notes": "overnight/next-day timing"
+  },
+  {
+    "date": "2027-10-09",
+    "ship": "Celebrity Infinity",
+    "cruiseLine": "Celebrity Cruises",
+    "arrival": "07:00",
+    "departure": "20:00",
+    "callType": "Port of call",
+    "timeInPort": "13h"
+  },
+  {
+    "date": "2027-10-11",
+    "ship": "Norwegian Viva",
+    "cruiseLine": "Norwegian Cruise Line",
+    "arrival": "08:00",
+    "departure": "16:00",
+    "callType": "Port of call",
+    "timeInPort": "8h"
+  },
+  {
+    "date": "2027-10-11",
+    "ship": "Silver Nova",
+    "cruiseLine": "Silversea Cruises",
+    "arrival": "08:00",
+    "departure": "19:00",
+    "callType": "Port of call",
+    "timeInPort": "11h"
+  },
+  {
+    "date": "2027-10-16",
+    "ship": "Viking Vela",
+    "cruiseLine": "Viking Cruises",
+    "arrival": "",
+    "departure": "",
+    "callType": "Port of call"
+  },
+  {
+    "date": "2027-10-18",
+    "ship": "Celebrity Infinity",
+    "cruiseLine": "Celebrity Cruises",
+    "arrival": "07:00",
+    "departure": "20:00",
+    "callType": "Port of call",
+    "timeInPort": "13h"
+  },
+  {
+    "date": "2027-10-26",
+    "ship": "Viking Vela",
+    "cruiseLine": "Viking Cruises",
+    "arrival": "",
+    "departure": "",
+    "callType": "Port of call"
+  },
+  {
+    "date": "2027-10-30",
+    "ship": "Oceania Marina",
+    "cruiseLine": "Oceania Cruises",
+    "arrival": "07:00",
+    "departure": "16:00",
+    "callType": "Port of call",
+    "timeInPort": "9h"
+  },
+  {
+    "date": "2027-11-01",
+    "ship": "Viking Saturn",
+    "cruiseLine": "Viking Cruises",
+    "arrival": "",
+    "departure": "",
+    "callType": "Port of call"
+  },
+  {
+    "date": "2027-11-02",
+    "ship": "Azamara Onward",
+    "cruiseLine": "Azamara Cruises",
+    "arrival": "08:00",
+    "departure": "22:00",
+    "callType": "Port of call",
+    "timeInPort": "14h"
+  },
+  {
+    "date": "2027-11-03",
+    "ship": "Viking Mira",
+    "cruiseLine": "Viking Cruises",
+    "arrival": "",
+    "departure": "",
+    "callType": "Port of call"
+  },
+  {
+    "date": "2027-11-11",
+    "ship": "Viking Saturn",
+    "cruiseLine": "Viking Cruises",
+    "arrival": "",
+    "departure": "",
+    "callType": "Port of call"
+  },
+  {
+    "date": "2027-12-01",
+    "ship": "Viking Libra",
+    "cruiseLine": "Viking Cruises",
+    "arrival": "",
+    "departure": "",
+    "callType": "Port of call"
+  },
+  {
+    "date": "2027-12-01",
+    "ship": "Viking Neptune",
+    "cruiseLine": "Viking Cruises",
+    "arrival": "",
+    "departure": "",
+    "callType": "Port of call"
+  }
+]

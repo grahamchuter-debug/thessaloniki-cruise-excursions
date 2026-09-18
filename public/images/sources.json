@@ -1,0 +1,196 @@
+{
+  "destination": "thessaloniki",
+  "generated": "2026-07-26T16:30:00.000Z",
+  "note": "Temporary Wikimedia Commons stand-ins for localhost development only. Replace before production. Do not use Italian Riviera leftovers.",
+  "images": [
+    {
+      "file": "hero.jpg",
+      "subject": "White Tower in Thessaloniki.jpg",
+      "source": "Wikimedia Commons",
+      "wikimedia": "White Tower in Thessaloniki.jpg",
+      "note": "Temporary localhost stand-in — replace with licensed production assets before launch"
+    },
+    {
+      "file": "hero-home.jpg",
+      "subject": "White Tower in Thessaloniki.jpg",
+      "source": "Wikimedia Commons",
+      "wikimedia": "White Tower in Thessaloniki.jpg",
+      "note": "Temporary localhost stand-in — replace with licensed production assets before launch"
+    },
+    {
+      "file": "og-default.jpg",
+      "subject": "Aristotelous Plateia.jpg",
+      "source": "Wikimedia Commons",
+      "wikimedia": "Aristotelous Plateia.jpg",
+      "note": "Temporary localhost stand-in — replace with licensed production assets before launch"
+    },
+    {
+      "file": "cruise-port.jpg",
+      "subject": "Greece Thessaloniki ThermaikosBay Boat AerialPicture 3 ISymeonidis.jpg",
+      "source": "Wikimedia Commons",
+      "wikimedia": "Greece Thessaloniki ThermaikosBay Boat AerialPicture 3 ISymeonidis.jpg",
+      "note": "Temporary localhost stand-in — replace with licensed production assets before launch"
+    },
+    {
+      "file": "historic.jpg",
+      "subject": "Arch of Galerius,Thessaloniki (2014).jpg",
+      "source": "Wikimedia Commons",
+      "wikimedia": "Arch of Galerius,Thessaloniki (2014).jpg",
+      "note": "Temporary localhost stand-in — replace with licensed production assets before launch"
+    },
+    {
+      "file": "walking.jpg",
+      "subject": "Cafes at Aristotelous Square, Thessaloniki.jpg",
+      "source": "Wikimedia Commons",
+      "wikimedia": "Cafes at Aristotelous Square, Thessaloniki.jpg",
+      "note": "Temporary localhost stand-in — replace with licensed production assets before launch"
+    },
+    {
+      "file": "food-and-wine.jpg",
+      "subject": "Agora Modiano.jpg",
+      "source": "Wikimedia Commons",
+      "wikimedia": "Agora Modiano.jpg",
+      "note": "Temporary localhost stand-in — replace with licensed production assets before launch"
+    },
+    {
+      "file": "food.jpg",
+      "subject": "Agora Modiano.jpg",
+      "source": "Wikimedia Commons",
+      "wikimedia": "Agora Modiano.jpg",
+      "note": "Temporary localhost stand-in — replace with licensed production assets before launch"
+    },
+    {
+      "file": "wine.jpg",
+      "subject": "Agora Modiano.jpg",
+      "source": "Wikimedia Commons",
+      "wikimedia": "Agora Modiano.jpg",
+      "note": "Temporary localhost stand-in — replace with licensed production assets before launch"
+    },
+    {
+      "file": "coastal.jpg",
+      "subject": "Thessaloniki beach promenade.jpg",
+      "source": "Wikimedia Commons",
+      "wikimedia": "Thessaloniki beach promenade.jpg",
+      "note": "Temporary localhost stand-in — replace with licensed production assets before launch"
+    },
+    {
+      "file": "coast.jpg",
+      "subject": "Thessaloniki beach promenade.jpg",
+      "source": "Wikimedia Commons",
+      "wikimedia": "Thessaloniki beach promenade.jpg",
+      "note": "Temporary localhost stand-in — replace with licensed production assets before launch"
+    },
+    {
+      "file": "nature.jpg",
+      "subject": "Placeholder from Thessaloniki beach promenade.jpg pending Meteora re-download",
+      "source": "Wikimedia Commons (stand-in)",
+      "wikimedia": "Thessaloniki beach promenade.jpg",
+      "note": "Temporary localhost stand-in — replace with licensed Meteora / Northern Greece production assets before launch"
+    },
+    {
+      "file": "compare.jpg",
+      "subject": "Arch of Galerius,Thessaloniki (2014).jpg",
+      "source": "Wikimedia Commons",
+      "wikimedia": "Arch of Galerius,Thessaloniki (2014).jpg",
+      "note": "Temporary localhost stand-in — replace with licensed production assets before launch"
+    },
+    {
+      "file": "private.jpg",
+      "subject": "Placeholder pending Vergina re-download",
+      "source": "Wikimedia Commons (stand-in)",
+      "wikimedia": "Agora Modiano.jpg",
+      "note": "Temporary localhost stand-in — replace with licensed Vergina assets before launch"
+    },
+    {
+      "file": "photography.jpg",
+      "subject": "Arch of Galerius,Thessaloniki (2014).jpg",
+      "source": "Wikimedia Commons",
+      "wikimedia": "Arch of Galerius,Thessaloniki (2014).jpg",
+      "note": "Temporary localhost stand-in — replace with licensed production assets before launch"
+    },
+    {
+      "file": "family.jpg",
+      "subject": "Aristotelous Plateia.jpg",
+      "source": "Wikimedia Commons",
+      "wikimedia": "Aristotelous Plateia.jpg",
+      "note": "Temporary localhost stand-in — replace with licensed production assets before launch"
+    },
+    {
+      "file": "white-tower.jpg",
+      "subject": "White Tower in Thessaloniki.jpg",
+      "source": "Wikimedia Commons",
+      "wikimedia": "White Tower in Thessaloniki.jpg",
+      "note": "Temporary localhost stand-in — replace with licensed production assets before launch"
+    },
+    {
+      "file": "aristotelous.jpg",
+      "subject": "Aristotelous Plateia.jpg",
+      "source": "Wikimedia Commons",
+      "wikimedia": "Aristotelous Plateia.jpg",
+      "note": "Temporary localhost stand-in — replace with licensed production assets before launch"
+    },
+    {
+      "file": "galerius.jpg",
+      "subject": "Arch of Galerius,Thessaloniki (2014).jpg",
+      "source": "Wikimedia Commons",
+      "wikimedia": "Arch of Galerius,Thessaloniki (2014).jpg",
+      "note": "Temporary localhost stand-in — replace with licensed production assets before launch"
+    },
+    {
+      "file": "rotunda.jpg",
+      "subject": "Placeholder pending Rotunda re-download",
+      "source": "Wikimedia Commons (stand-in)",
+      "wikimedia": "Cafes at Aristotelous Square, Thessaloniki.jpg",
+      "note": "Temporary localhost stand-in — replace with licensed Rotunda assets before launch"
+    },
+    {
+      "file": "ano-poli.jpg",
+      "subject": "Placeholder pending Ano Poli re-download",
+      "source": "Wikimedia Commons (stand-in)",
+      "wikimedia": "Cafes at Aristotelous Square, Thessaloniki.jpg",
+      "note": "Temporary localhost stand-in — replace with licensed Ano Poli assets before launch"
+    },
+    {
+      "file": "vergina.jpg",
+      "subject": "Placeholder pending Vergina re-download",
+      "source": "Wikimedia Commons (stand-in)",
+      "wikimedia": "Agora Modiano.jpg",
+      "note": "Temporary localhost stand-in — replace with licensed Vergina / Aigai assets before launch"
+    },
+    {
+      "file": "st-demetrios.jpg",
+      "subject": "Placeholder pending St Demetrios re-download",
+      "source": "Wikimedia Commons (stand-in)",
+      "wikimedia": "Cafes at Aristotelous Square, Thessaloniki.jpg",
+      "note": "Temporary localhost stand-in — replace with licensed St Demetrios assets before launch"
+    },
+    {
+      "file": "meteora.jpg",
+      "subject": "Placeholder pending Meteora re-download",
+      "source": "Wikimedia Commons (stand-in)",
+      "wikimedia": "Thessaloniki beach promenade.jpg",
+      "note": "Temporary localhost stand-in — replace with licensed Meteora assets before launch"
+    },
+    {
+      "file": "pella.jpg",
+      "subject": "Placeholder pending Pella re-download",
+      "source": "Wikimedia Commons (stand-in)",
+      "wikimedia": "Agora Modiano.jpg",
+      "note": "Temporary localhost stand-in — replace with licensed Pella assets before launch"
+    },
+    {
+      "file": "viewpoints.jpg",
+      "subject": "Placeholder from waterfront pending Ano Poli viewpoint re-download",
+      "source": "Wikimedia Commons (stand-in)",
+      "wikimedia": "Thessaloniki beach promenade.jpg",
+      "note": "Temporary localhost stand-in — replace with licensed viewpoint assets before launch"
+    },
+    {
+      "file": "waterfront.jpg",
+      "subject": "Thessaloniki beach promenade.jpg",
+      "source": "Wikimedia Commons",
+      "wikimedia": "Thessaloniki beach promenade.jpg",
+      "note": "Temporary localhost stand-in — replace with licensed production assets before launch"
+    }
+  ]
+}
