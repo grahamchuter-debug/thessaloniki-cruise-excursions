@@ -95,8 +95,7 @@
     "cruiseLine": "Windstar Cruises",
     "arrival": "12:00",
     "departure": "",
-    "callType": "Port of call",
-    "notes": "overnight/next-day timing"
+    "callType": "Port of call"
   },
   {
     "date": "2026-10-03",
@@ -131,8 +130,7 @@
     "cruiseLine": "Windstar Cruises",
     "arrival": "12:00",
     "departure": "",
-    "callType": "Port of call",
-    "notes": "overnight/next-day timing"
+    "callType": "Port of call"
   },
   {
     "date": "2026-10-08",
@@ -140,8 +138,7 @@
     "cruiseLine": "Azamara Cruises",
     "arrival": "08:00",
     "departure": "",
-    "callType": "Port of call",
-    "notes": "overnight/next-day timing"
+    "callType": "Port of call"
   },
   {
     "date": "2026-10-20",
@@ -184,8 +181,7 @@
     "cruiseLine": "Fred Olsen Cruise Lines",
     "arrival": "",
     "departure": "",
-    "callType": "Port of call",
-    "notes": "overnight/next-day timing"
+    "callType": "Port of call"
   },
   {
     "date": "2026-11-03",
@@ -267,8 +263,7 @@
     "cruiseLine": "Celebrity Cruises",
     "arrival": "06:30",
     "departure": "",
-    "callType": "Port of call",
-    "notes": "overnight/next-day timing"
+    "callType": "Port of call"
   },
   {
     "date": "2027-04-04",
@@ -276,8 +271,7 @@
     "cruiseLine": "Celebrity Cruises",
     "arrival": "06:30",
     "departure": "",
-    "callType": "Port of call",
-    "notes": "overnight/next-day timing"
+    "callType": "Port of call"
   },
   {
     "date": "2027-04-14",
@@ -285,8 +279,7 @@
     "cruiseLine": "Celebrity Cruises",
     "arrival": "06:30",
     "departure": "",
-    "callType": "Port of call",
-    "notes": "overnight/next-day timing"
+    "callType": "Port of call"
   },
   {
     "date": "2027-04-17",
@@ -294,8 +287,7 @@
     "cruiseLine": "Azamara Cruises",
     "arrival": "08:00",
     "departure": "",
-    "callType": "Port of call",
-    "notes": "overnight/next-day timing"
+    "callType": "Port of call"
   },
   {
     "date": "2027-04-25",
@@ -303,8 +295,7 @@
     "cruiseLine": "Celebrity Cruises",
     "arrival": "06:30",
     "departure": "",
-    "callType": "Port of call",
-    "notes": "overnight/next-day timing"
+    "callType": "Port of call"
   },
   {
     "date": "2027-04-28",
@@ -462,8 +453,7 @@
     "cruiseLine": "Windstar Cruises",
     "arrival": "12:00",
     "departure": "",
-    "callType": "Port of call",
-    "notes": "overnight/next-day timing"
+    "callType": "Port of call"
   },
   {
     "date": "2027-09-05",
@@ -507,8 +497,7 @@
     "cruiseLine": "Windstar Cruises",
     "arrival": "12:00",
     "departure": "",
-    "callType": "Port of call",
-    "notes": "overnight/next-day timing"
+    "callType": "Port of call"
   },
   {
     "date": "2027-10-09",
